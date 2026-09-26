@@ -3,7 +3,7 @@
 We are the creators and maintainers of **Learn Korean Daily with Namu** — an iOS app designed to help K-pop, K-drama, and Korean culture fans learn Korean naturally, one day at a time.
 
 <div align="center">
-  <img src="./namu_mockup.png" alt="Namu App Mockup" width="600" />
+  <img width="98%" src="./namu_mockup.png" alt="Namu App Mockup" width="600" />
 </div>
 
 ## About Namu
